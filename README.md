@@ -1,4 +1,4 @@
-### Hi, I'm Kevin Benitez - [mrr4ms0n][website] 👋
+### Hi, I'm Kevin Benitez - [mrr4ms0n] 👋
 
 ## I'm Student, Pentester, Developer, and Teacher!!
 
