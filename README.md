@@ -1,19 +1,15 @@
 ### Hi, I'm Kevin Benitez - [mrr4ms0n] 👋
 
-## I'm Student, Pentester, Developer, and Teacher!!
+## Im a professional web deveolper focused on backend technologies such as spring boot with java
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with some Pentesters
-- 🥅 2021 Goals: Complete OSED and CSSSP Certificaton's.
+- 🌱 I’m currently learning everything about web programming and cybsersecurity
+- 👯 I’m looking to collaborate with different projects
 - ⚡ Fun fact: I love to do exercise and drive.
 
 ### Connect with me:
 
-<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
-<!--[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<!--[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]-->
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -38,13 +34,5 @@
 <br />
 <br />
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/r4ms0n_it5_h3re
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://www.instagram.com/r4ms0n/
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[twitter]: https://twitter.com/r4ms0n
+[linkedin]: https://www.linkedin.com/in/kbeval/
