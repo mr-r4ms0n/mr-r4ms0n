@@ -8,7 +8,6 @@
 
 ### Connect with me:
 
-[![My Skills](https://skillicons.dev/icons?i=twitter&perline=1)](https://twitter.com/r4ms0n)
 [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/kbeval)
 
 <br />
