@@ -15,7 +15,3 @@
 ### My Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,angular,apple,bash,cs,cloudflare,docker,gitlab,hibernate,idea,java,kubernetes,spring,&perline=16)](https://skillicons.dev)
-<br />
-<br />
-
-[linkedin]: 
